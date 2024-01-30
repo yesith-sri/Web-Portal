@@ -1,0 +1,147 @@
+*{
+  
+    padding: 0;
+    box-sizing : border-box;
+    font-family : 'Poppins','sans-serif' ;
+}
+
+body{
+    background-color: #E48F45;
+}
+.con2{
+    background: linear-gradient(to right, #F5CCA0,#FCE09B );
+    max-width: 500px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px #6B240C ;
+    text-align: center;
+    padding:80px;
+    margin: auto;
+    margin-top: 10px;
+    font-size: large;
+}
+.con2 h1{
+        font-size: 35px;
+        color: #212121;
+        line-height: 50px;
+}
+.con2 p{
+    text-align: center;
+    font-size: 25px;
+    line-height: 8px;
+}
+.con2{
+    color: #212121;
+    text-align: center;
+    padding: 2%;
+    margin: 0 auto;
+    font-size: large;
+
+}
+.footer,
+.section5,
+.section4,
+.section3,
+.section2,
+.section{
+    background-color: #F5CCA0;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    font-size: 28px;
+    font-family:'Poppins','sans-serif' ;
+    box-shadow: 10px 10px 10px #6B240C ;
+    
+}
+.section h2{
+    font-size: 50px;
+    color: #212121;
+    margin-bottom: 50px;
+}
+
+span{
+    color: #45474B;
+}
+.section p{
+color: #555;
+line-height: 35px;
+}
+
+.my{
+    border-radius: 75px;
+    margin-left: 63%;
+    margin-top: -30%;
+    box-shadow: 10px 10px 10px #6B240C ;
+    position: absolute;
+    width: 20%;
+
+}
+   
+.section con3{
+    color: #E48F45;
+}
+.lan{
+
+    list-style: none;
+    padding: 0%;
+}
+.lan li{
+    display: inline-block;
+    margin-right: 10px;
+    background-color: #6B240C;
+    color: #fff;
+    padding: 3px 10px;
+    border-radius: 5px;
+    font-size: 26px;
+}
+.lan li:hover{
+    cursor: pointer;
+}
+.section2 p{
+    font-size: 26px;
+}
+.section3 p{
+    font-size: 24px;
+}
+.PNG{
+    border-radius: 10PX;
+    box-shadow: 10px 10px 10px #2b0b01
+}
+
+.section:hover.PNG{
+    left: 50%;
+}
+.PNG:hover{
+    cursor: pointer;
+}
+.section5{
+  
+    text-align: center;
+}
+.section5 a {
+    font-size: 30px;
+    color: #6B240C;
+    margin: 10px;
+    
+  
+}
+.section5 a:hover{
+    cursor: pointer;
+}
+.section5 p{
+    color: #212121;
+    font-size: 25px;
+}
+.section5 .ap{
+    font-size: 25px;
+}
+.footer{
+text-align: center;
+font-size: 18px;
+max-width: 500px;
+padding: 10px;
+margin: auto;
+color: #212121;
+}
+.section4 p{
+    font-size: 23px;
+}
